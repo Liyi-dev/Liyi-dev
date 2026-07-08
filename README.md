@@ -1,8 +1,8 @@
-# 👋 Hi, I'm L
+# 明白的，我是L1
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=45&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=我早已麻痹&fontSize=45&fontColor=ffffff" />
 
 </div>
 
@@ -11,18 +11,18 @@
 
 ### 🚀 Full Stack Developer | 💡 Technology Enthusiast | 🌱 Continuous Learner
 
-[![GitHub followers](https://img.shields.io/github/followers/yourname?style=social)](https://github.com/yourname)
-[![GitHub stars](https://img.shields.io/github/stars/yourname?style=social)](https://github.com/yourname)
+[![GitHub followers](https://img.shields.io/github/followers/Liyi-dev?style=social)](https://github.com/Liyi-dev)
+[![GitHub stars](https://img.shields.io/github/stars/Liyi-dev?style=social)](https://github.com/Liyi-dev)
 
 </div>
 
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 解剖学
 
 ```yaml
-name: Your Name
+name: li
 location: Earth 🌍
 role: Software Engineer
 focus:
@@ -44,7 +44,7 @@ motto:
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 八国语言
 
 <div>
 
@@ -57,7 +57,7 @@ motto:
 </div>
 
 
-### ⚙️ Frameworks & Tools
+### ⚙️ 玩具
 
 <div>
 
@@ -74,40 +74,40 @@ motto:
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub 
 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Liyi-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liyi-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourname&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-
----
-
-## 🏆 GitHub Achievements
-
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yourname&theme=tokyonight&no-frame=true&column=7"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Liyi-dev&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 奖杯
+
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Liyi-dev&theme=tokyonight&no-frame=true&column=7"/>
+
+</div>
+
+
+---
+
+## 🚀 Projects
 
 
 <table>
@@ -115,10 +115,10 @@ motto:
 
 <td width="50%">
 
-<h3 align="center">🔥 Project One</h3>
+<h3 align="center">🔥 火烧屁股的项目</h3>
 
 <p align="center">
-A powerful application built with modern technologies.
+有意味的项目，你明白的
 </p>
 
 <p align="center">
@@ -135,10 +135,10 @@ A powerful application built with modern technologies.
 
 <td width="50%">
 
-<h3 align="center">⚡ Project Two</h3>
+<h3 align="center">⚡ 火烧眉毛的项目</h3>
 
 <p align="center">
-An amazing open source project.
+我也不知道
 </p>
 
 <p align="center">
@@ -158,38 +158,32 @@ An amazing open source project.
 
 ---
 
-## 📈 Contribution Activity
+## 📈 绝美劳动力
 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourname&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Liyi-dev&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 
 ---
 
-## ✍️ Latest Blog Posts
+## ✍️ Latest
 
-<!-- BLOG-POST-LIST:START -->
-
-- 🚀 Building scalable backend systems
 - 💡 Exploring AI technology
-- 📚 Learning distributed architecture
-
-<!-- BLOG-POST-LIST:END -->
 
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 逮捕我？
 
 
 <div align="center">
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/yourname)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Liyi-dev)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](#)
 
@@ -203,9 +197,9 @@ An amazing open source project.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ 你知道的，你其实已经看完了!
 
-<img src="https://komarev.com/ghpvc/?username=yourname&style=flat-square&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Liyi-dev&style=flat-square&color=blue"/>
 
 </div>
 
